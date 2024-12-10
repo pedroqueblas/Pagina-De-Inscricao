@@ -7,15 +7,6 @@ HTML5: Estruturação e organização do conteúdo.
 CSS3: Estilização da interface e layout.
 
 
-📂 Estrutura do Projeto
-plaintext
-Copiar código
-Pagina-De-Inscricao/
-├── index.html    # Estrutura da página
-└── css/
-    └── style.css # Estilo da página
-
-
 🛠️ Como Usar
 Clone este repositório:
 bash
